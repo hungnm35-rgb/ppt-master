@@ -70,6 +70,12 @@ Each style keeps its own authoritative file with: shape & decoration, typography
 |---|---|---|---|
 | [`pixel-art`](./pixel-art.md) | Strict pixel grid, blocky forms, limited palette, flat | `pixel-art` | core |
 
+### 1.6 Educational / Lecture / STEM
+
+| Visual style | Character | Paired rendering | Illus. |
+|---|---|---|---|
+| [`academic-lecture`](./academic-lecture.md) | Left-spine frame, floating pill badges, dual sans/serif type, vector 3D geometry | `minimalist-swiss` / `flat` | supportive |
+
 ---
 
 ## 2. Selection Boundary

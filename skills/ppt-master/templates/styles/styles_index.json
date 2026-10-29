@@ -1,4 +1,18 @@
 {
+  "academic-lecture": {
+    "summary": "High-school mathematics and STEM lecture method sequencing objective roadmap, real-world hook, foundation concepts, 3D geometry axioms, step-by-step methods, mindmap recap, 2x2 quiz checks, and practical homework.",
+    "keywords": [
+      "lecture",
+      "mathematics",
+      "stem",
+      "high-school",
+      "k12",
+      "teaching",
+      "geometry",
+      "quiz",
+      "proof"
+    ]
+  },
   "academic-research": {
     "summary": "Research-reporting method that builds a defensible claim from question, method, and result while keeping limitations visible.",
     "keywords": [

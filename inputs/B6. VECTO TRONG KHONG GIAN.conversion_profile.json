@@ -1,0 +1,30 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "pdf_to_md.py",
+  "conversion_type": "pdf",
+  "source": {
+    "path": "B6. VECTO TRONG KHONG GIAN.pdf",
+    "name": "B6. VECTO TRONG KHONG GIAN.pdf",
+    "suffix": ".pdf",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 2388784
+  },
+  "outputs": {
+    "markdown": "B6. VECTO TRONG KHONG GIAN.md",
+    "asset_dir": "B6. VECTO TRONG KHONG GIAN_files",
+    "image_manifest": "B6. VECTO TRONG KHONG GIAN_files/image_manifest.json",
+    "image_count": 15
+  },
+  "markdown": {
+    "line_count": 59,
+    "char_count": 1975,
+    "heading_count": 1,
+    "table_count": 0,
+    "image_ref_count": 15,
+    "link_count": 0
+  },
+  "warnings": [
+    "scanned PDF: 28 text characters over 15 pages, 15 page images; no text layer was extracted, so the clauses exist only inside the images (OCR or a text-layer copy is needed)"
+  ]
+}
